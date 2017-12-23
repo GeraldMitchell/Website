@@ -1,0 +1,80 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+
+<font face="Apple Chauncery">
+
+<style>
+
+body {
+
+    background-color: skyblue
+	
+
+}</style>
+
+
+
+<title>My Music</title>
+
+
+</head>
+
+<center><table>
+
+<tr>
+
+<center><h1>My Music</h1></center> 
+
+<th><IMG SRC="Cigarette Daydreams"width=235></th>
+
+<th><IMG SRC= "Grown Up" width=235></th>
+
+</tr>
+
+<tr>
+
+<th><IMG SRC= "Brothers" width=235></th>
+
+<th><IMG SRC= "The Best of Don McLean" width=235></th>
+
+<th><IMG SRC= "Acidrap"width=235></th>
+</tr>
+
+</table></center>
+
+
+
+
+
+
+
+<center><p>Cage The Elephant: Cigarette Daydreams</center>
+
+
+
+<center><p>Danny Brown: Grown Up</p></center>
+
+
+
+<center><p>The Black Keys: Howlin For You</p></center>
+
+
+
+<center><p>Don Mclean: American Pie</p></center>
+
+
+
+<center><p>Chance the Rapper: Favorite Song</p></center>
+
+
+
+<center><table>
+
+
+
+<A HREF="homepage.html"> Home Page </A>
+
+</html>
