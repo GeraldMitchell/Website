@@ -1,0 +1,75 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+
+<style>
+
+body {
+
+    background-color: skyblue;
+
+}</style>
+
+<font face="Apple Chancery">
+
+<title>About Me</title>
+
+
+
+</head>
+
+<center><h1>About Me</h1></center> 
+
+<center><p>I was born in Portland, Maine and lived there for 17 years before moving to Cumberland.</p><center>
+
+<center><p>When I graduate college, I want to gain at least 10-15 years working in marketing before starting my own sports marketing company. </p></center>
+
+
+
+<center><p> I would love to live in California for a while and to travel the world before deciding to settle down and get married.</p></center>
+
+
+
+<center><p>I attended Deering High School in Portland for all four years, despite having to move to Cumberland my senior year.</p></center>
+
+
+
+<center><p>The school attended was very casually structured, and most of the kids in my class were just the same way. It allowed me to build the interpersonal skills I've gained today</p></center>
+
+
+
+</p></center>
+
+
+
+
+
+<center><h3><font size="5"> What I Do </font></h3><center>
+
+
+
+<center><p>I played football and lacrosse at Deering, I could've potentially played college football before receiving multiple knee injuries that disabled me from playing further. I played sports for all four years of my high school career.</p></center>
+
+
+
+<center><p>I tried track, but alas my knee classically failed me once again and I had to stop.</p></center>
+
+
+
+<center><p>I currently work at a small restaurant called "Rachel's On The Green", located in Yarmouth. I prep and sometimes cook there, while also doing dishes when I can.</p></center>
+
+
+
+<center><p><IMG SRC= "IMG_8196.jpg" width=300></p></center>
+
+
+
+<A HREF="homepage.html"> Home Page </A>
+
+
+
+
+
+</html>
